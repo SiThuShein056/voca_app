@@ -917,9 +917,59 @@ String vocabularies = """
                 "voca":"beg",
                   "gram":"(v)",
                       "myanmar":"ထောင်းသည်။"
-                      }
-                        ]
+                      },
+                {
+                    "voca":"begin",
+                      "gram":"(v)",
+                      "myanmar":"စတင်သည်။အစချီသည်။အစပြုသည်။"
+                      },
+                {
+                  "voca":"behalf",
+                  "gram":"(n)",
+                    "myanmar":"ကိုယ်စား။အကျိုးငှာ။အတွက်။"
+                    },
+                {
+                "voca":"behave",
+                  "gram":"(v)",
+                  "myanmar":"အနေ အထိုင်ဆင်ခြင်သည်။ဣန္ဒြေရရနေသည်။"
                   },
+                {
+                  "voca":"behavior",
+                  "gram":"(n)",
+                    "myanmar":"အပြုအမူ။"
+                    },
+                {
+                "voca":"behind",
+                  "gram":"(prep)",
+                  "myanmar":"နောက်ဘက်တွင်။ နောက်ဘက်သို့။"
+                  },
+                {
+                  "voca":"being",
+                  "gram":"(v)",
+                    "myanmar":"ပြုဆဲ၊ဖြစ်ဆဲကြိယာသဏ္ဍန်နှငိ့တွဲသုံးရသည့်အကူကြိယာ။"
+                    },
+                {
+                "voca":"belief",
+                  "gram":"(n)",
+                  "myanmar":"ယုံကြည်မှု။ယုံကြည်စိတ်ချရမှု။"
+                  },
+                {
+                  "voca":"believe",
+                  "gram":"(v)",
+                    "myanmar":"ယုံကြည်သည်။ထင်သည်။"
+                    },
+                {
+                "voca":"bell",
+                  "gram":"(n)",
+                  "myanmar":"ခေါင်းလောင်း။"
+                  },
+                {
+                  "voca":"bellow",
+                  "gram":"(prep)",
+                    "myanmar":"အောက်ဘက်တွင်။"
+                    }
+          ]
+  },
   {    
       "image":"images/c.jpg",
       "title":"C",
